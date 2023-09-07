@@ -3,5 +3,5 @@
 Список слов русского мата, жаргона, блатной и обсценной лексики.
 Список не полный, русский язык прекрасен и богат и никакие конечные списки не покроют его жаргонно-матершинных выразительных способностей.
 
-Russian bad, obscene and curse words - not a complit list.
+Russian bad, obscene and curse words - not a complete list.
 Use it carefully.
